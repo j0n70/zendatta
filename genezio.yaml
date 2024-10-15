@@ -4,7 +4,7 @@ frontend:
     scripts:
         build: npm run build
         deploy: npm install
-    subdomain: zendatta
-name: zendatta
+    subdomain: zen
+name: zen
 region: us-east-1
 yamlVersion: 2
